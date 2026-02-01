@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Arafat Hossain 
 #### 🧑‍💻I am an aspiring Software Engineer.
 
-<h4>About Me 👨‍🏫  <\h4>
+<h4>About Me 👨‍🏫  </h4>
 I am an aspiring Software Engineer with a strong passion for programming and technology. I have experience with Java, Python, Git, and Arduino, and I enjoy building projects that solve real-world problems. I am eager to learn new technologies, improve my skills, and contribute to innovative software solutions.
 
 <h3 align="left">Languages and Tools:</h3>
