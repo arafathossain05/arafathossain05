@@ -16,13 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arafathossain05&show_icons=true&locale=en" alt="arafathossain05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arafathossain05&" alt="arafathossain05" /></p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafathossain05)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arafathossain05&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/arafathossain05)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=arafathossain05)  
-
