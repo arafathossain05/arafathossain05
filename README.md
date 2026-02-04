@@ -4,11 +4,10 @@
 
 ## 🧑‍💻 About Me
 
-I am an enthusiastic **Information and Communication Engineering (ICE)** student at **Pabna University of Science & Technology (PUST)**.  
-I am passionate about learning new technologies, improving my programming skills, and solving real-world problems through code.
-
-Currently, I am building a strong foundation in **C, C++, Java, Python, and Web Development**, with a focus on **Object-Oriented Programming and problem solving**.  
-My long-term goal is to become a skilled **Software Engineer** and contribute to meaningful, real-world software projects while continuously learning and growing.
+I am an enthusiastic **Information and Communication Engineering (ICE)** student at **Pabna University of Science & Technology (PUST)**.  I am passionate 
+about learning new technologies, improving my programming skills, and solving real-world problems through code.Currently, I am building a strong foundation
+in **C, C++, Java, Python, and Web Development**, with a focus on **Object-Oriented Programming and problem solving**.  My long-term goal is to become 
+a skilled **Software Engineer** and contribute to meaningful, real-world software projects while continuously learning and growing.
 
 
 ## 🎓 Education
