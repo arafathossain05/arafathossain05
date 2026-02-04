@@ -9,7 +9,9 @@ Currently, I am building a strong foundation in **C, C++, Java, Python, and Web 
 ## 🎓 Education
 🎓 **BSc in Information and Communication Engineering (ICE)**  
 Pabna University of Science & Technology (PUST)
-📘 **HSC** – Science Background  
+
+📘 **HSC** – Science Background
+
 📗 **SSC** – Science Background
 
 <h3 align="left">Connect with me:</h3>
