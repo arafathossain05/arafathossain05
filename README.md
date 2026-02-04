@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arafat Hossain</h1>
 <h3 align="center">🧑‍💻I am an aspiring Software Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafathossain05&label=Profile%20views&color=0e75b6&style=flat" alt="arafathossain05" /> </p>
+
 ## 🧑‍💻 About Me
 
 I am an enthusiastic **Information and Communication Engineering (ICE)** student at **Pabna University of Science & Technology (PUST)**.  
